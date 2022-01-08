@@ -9,6 +9,7 @@
     <PackageReference Include="AngleSharp" Version="0.15.0" />
     <PackageReference Include="Selenium.WebDriver" Version="3.141.0" />
     <PackageReference Include="System.Xml.XPath" Version="4.3.0" />
+    <PackageReference Include="Telegram.Bot" Version="15.7.1" />
   </ItemGroup>
 
 </Project>
